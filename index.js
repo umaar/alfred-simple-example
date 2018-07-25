@@ -28,5 +28,3 @@ if (input.startsWith('@')) {
 
 	output(items);
 }
-
-
